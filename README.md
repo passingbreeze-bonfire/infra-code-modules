@@ -1,3 +1,3 @@
-# passingbreeze-repo-template
+# Repo for Modules of Infra code from Passingbreeze
 
-Repo Template for Passingbreeze's Side Project
+- 인프라 코드 모듈 저장소
