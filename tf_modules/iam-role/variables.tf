@@ -12,7 +12,7 @@ variable "stmts" {
   description = "role statements"
   type = map(object({
     sid       = optional(string)
-    effect    = "Allow"
+    effect    = optional(string)
     actions   = list(string)
     resources = optional(list(string))
     principals = optional(map(object({
